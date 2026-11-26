@@ -116,6 +116,12 @@ print(text[::-1]) # 문자열 뒤집기
 print(text[::-2]) # 드가벽 이 스 이
 print(text[4::2])
 
+teacher_name = "다람쥐"
+
+print(f"안녕하세요. 오늘부터 여러분과 함께 공부할 {teacher_name} 강사입니다~!")
+
+
+
 
 
 
